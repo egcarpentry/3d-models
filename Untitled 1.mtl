@@ -1,0 +1,9 @@
+newmtl Material_1
+Kd 1 1 1
+d 1
+map_Kd Texture_7.png
+
+newmtl Material_2
+Kd 0 0 0
+d 1
+
