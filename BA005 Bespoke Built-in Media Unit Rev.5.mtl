@@ -1,0 +1,17 @@
+newmtl Material_1
+Kd 1 1 1
+d 1
+map_Kd Texture_73.png
+
+newmtl Material_2
+Kd 0 0 0
+d 1
+
+newmtl Material_3
+Kd 1 1 1
+d 1
+
+newmtl Material_4
+Kd 0.752941 0.752941 0.752941
+d 1
+
